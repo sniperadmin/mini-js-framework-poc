@@ -1,0 +1,13 @@
+{
+  "name": "mini-js-framework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "snabbdom": "^3.1.0"
+  }
+}
